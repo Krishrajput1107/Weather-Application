@@ -64,7 +64,7 @@ Click the search button 🔍
 View the current weather details for the selected city
 
 
-📜 License
+📜 License:-
 This project is open-source and available under the MIT License.
 
 
